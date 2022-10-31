@@ -46,9 +46,3 @@ Our [Code of Conduct](https://docs.onruntime.com/contributing/code-of-conduct) a
 ## Contributing
 
 Please see our [contributing rules](https://docs.onruntime.com/contributing/introduction).
-
-## Authors
-
-- Younes Bessa ([@younesbessa](https://github.com/younesbessa))
-- Antoine Kingue ([@antoinekm](https://github.com/antoinekm))
-- Jérémy Baudrin ([@jerembdn](https://github.com/jerembdn))
