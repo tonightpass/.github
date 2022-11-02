@@ -37,7 +37,7 @@ You can check out our [LinkedIn Profile](https://www.linkedin.com/company/tonigh
 
 ## Community
 
-The Tonight Pass community can be found on [GitHub Discussions](https://github.com/tonightpass/discussions), where you can ask questions, voice ideas, and share your projects.
+The Tonight Pass community can be found on [GitHub Discussions](https://github.com/orgs/tonightpass/discussions), where you can ask questions, voice ideas, and share your projects.
 
 To chat with other community members and see the live development you can join our [Discord](https://discord.gg/VvvAkPqQ98).
 
