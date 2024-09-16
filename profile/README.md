@@ -1,9 +1,6 @@
 <p align="center">
   <a href="https://tonightpass.com">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://tonightpass.com/static/images/logo/tonightpass.svg">
-        <img src="https://tonightpass.com/static/images/logo/tonightpass.svg" width="128">
-      </picture>
+      <img src="https://tonightpass.com/static/images/favicon/android-chrome-512x512.png" width="128">
   </a>
 </p>
 
