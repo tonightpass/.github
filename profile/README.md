@@ -1,45 +1,30 @@
-<p align="center">
-  <a href="https://tonightpass.com">
-      <img src="https://tonightpass.com/static/images/favicon/android-chrome-512x512.png" width="128">
-  </a>
-</p>
+![Tonight Pass - GitHub Banner](https://github.com/user-attachments/assets/b57f5e8e-8440-4644-a597-6dbe3bce7ba2)
+
 
 <p align="center">
-  <a aria-label="onRuntime Studio" href="https://onruntime.com" target="_blank">
-    <img src="https://img.shields.io/badge/MADE%20BY%20ONRUNTIME-fff.svg?style=for-the-badge&labelColor=000">
-  </a>
-</p>
-
-<p>
-  <h2>
-    Social
-  </h2>
-
   <a aria-label="Discord" href="https://www.discord.gg/VvvAkPqQ98" target="_blank">
-    <img alt="" src="https://img.shields.io/discord/829290979092856833?label=Discord&style=for-the-badge&labelColor=000000&logo=discord&logoColor=white&logoWidth=20">
+    <img alt="Discord" src="https://img.shields.io/discord/829290979092856833?label=Discord&style=for-the-badge&labelColor=000000&logo=discord&logoColor=white&logoWidth=20">
   </a>
   <a aria-label="LinkedIn" href="https://www.linkedin.com/company/tonightpass" target="_blank">
-    <img alt="" src="https://img.shields.io/badge/LinkedIn-0e76a8.svg?style=for-the-badge&labelColor=000000&logo=linkedin&logoColor=white&logoWidth=20">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0e76a8.svg?style=for-the-badge&labelColor=000000&logo=linkedin&logoColor=white&logoWidth=20">
   </a>
   <a aria-label="Instagram" href="https://www.instagram.com/tonightpass" target="_blank">
-    <img alt="" src="https://img.shields.io/badge/Instagram-C13584.svg?style=for-the-badge&labelColor=000000&logo=instagram&logoColor=white&logoWidth=20">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-C13584.svg?style=for-the-badge&labelColor=000000&logo=instagram&logoColor=white&logoWidth=20">
   </a>
 </p>
 
-## Description
+## About
 
-[Tonight Pass](https://github.com/tonightpass/) is a mobile app that will basically allow you to book your VIP party pass in advance and cut the lines at events.
+**Tonight Pass** is your ultimate mobile app for easy and fast access to nightclubs, parties, concerts, and festivals. No more waiting in line—simply book your entry in advance and enjoy the night without the hassle!
 
-You can check out our [LinkedIn Profile](https://www.linkedin.com/company/tonightpass) for more details.
+Made in 🇫🇷 by [onRuntime Studio](https://onruntime.com), Tonight Pass helps you find and book the best events near you, so you never miss out on the fun.
 
 ## Community
 
-The Tonight Pass community can be found on [GitHub Discussions](https://github.com/orgs/tonightpass/discussions), where you can ask questions, voice ideas, and share your projects.
+Join the **Tonight Pass** community to stay connected and get involved:
 
-To chat with other community members and see the live development you can join our [Discord](https://discord.gg/VvvAkPqQ98).
+- Ask questions, share ideas, and contribute to the project on [GitHub Discussions](https://github.com/orgs/tonightpass/discussions).
+- Connect with other community members and engage with live development on our [Discord](https://discord.gg/VvvAkPqQ98).
 
-Our [Code of Conduct](https://docs.onruntime.com/contributing/code-of-conduct) applies to all community channels.
+By participating, you agree to our [Code of Conduct](https://docs.onruntime.com/contributing/code-of-conduct).
 
-## Contributing
-
-Please see our [contributing rules](https://docs.onruntime.com/contributing/introduction).
